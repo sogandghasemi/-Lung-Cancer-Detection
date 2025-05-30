@@ -1,4 +1,4 @@
-# Histopathological Image Classification using CNN and ScatNet
+#Comparative Analysis of CNN and ScatNet in Lung Cancer Detection
 
 This project implements and compares two models — a standard Convolutional Neural Network (CNN) and a Scattering Network (ScatNet) — for the binary classification of lung cancer histopathological images. The dataset used consists of grayscale images labeled as **adenocarcinoma** or **benign**.
 
